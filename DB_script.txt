@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS public.tree
+(
+    id integer NOT NULL,
+    title character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    latitude double precision,
+    longitude double precision,
+    "timestamp" timestamp(0) without time zone NOT NULL,
+    CONSTRAINT tree_pkey PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.tree
+    OWNER to postgres;
