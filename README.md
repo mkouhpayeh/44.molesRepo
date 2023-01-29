@@ -1,7 +1,7 @@
 # 44.molesRepo
 Tree Management Project By 44.Moles
 
-## Web application to measure Air Carbon with some instruments and this web application is responsible for storing and managing Data about forests via API
+## Thers are some instruments to measure Air Carbon, with this web application we want to display, store and manage forests data via API.
 
 ### What it does
 Everyone that owns a forest can use this web application to manage Trees. There are APIs to store and fetch data within the Database
