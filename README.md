@@ -8,7 +8,7 @@ Everyone that owns a forest can use this web application to manage Trees. There 
   
   #### How does it work
   To get all tree data you can call Get method via this link => [main URL]/tree
-  To create table Tree in postgreSQL see file named "DB_Script"
+  To create table Tree in postgreSQL see file named "DB_Script.txt"
 
   #### Challenges I ran into
   As I've just start to coding with Symfony framework and even in PHP, I encounter serveral chalanges
